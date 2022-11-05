@@ -1,0 +1,72 @@
+ParkingSpace:
+	Meter:
+		180
+	Car:
+		Driver:
+			Ryder Feldman
+			130217582
+		Honda
+		Civic
+		Red
+		GLM-0954
+		126
+ParkingSpace:
+	Meter:
+		300
+	Car:
+		Driver:
+			Dillon Webb
+			590861275
+		Dodge
+		Grand Caravan
+		Silver
+		JRE-0831
+		340
+ParkingSpace:
+	Meter:
+		60
+	Car:
+		Driver:
+			Kari Raltz
+			236105718
+		Volkswagen
+		Beetle
+		Yellow
+		LUA-0523
+		192
+ParkingSpace:
+	Meter:
+		90
+	Car:
+		Driver:
+			Val Klosky
+			12236584
+		Honda
+		Accord
+		Orange
+		VAL-0259
+		100
+ParkingSpace:
+	Meter:
+		120
+	Car:
+		Driver:
+			Kortney Orwig
+			2225859
+		Toyota
+		Camry
+		Mystic Blue
+		RICK-0468
+		100
+ParkingSpace:
+	Meter:
+		80
+	Car:
+		Driver:
+			Jamie Jules
+			6289523
+		BMW
+		X5
+		Black
+		RICH-KID
+		62
